@@ -1,0 +1,32 @@
+{
+  "name": "activity-indicator",
+  "version": "0.0.1",
+  "description": "an animate progress activity-indicator component for vue",
+  "config": {
+    "libName": "activity-indicator"
+  },
+  "keywords": [
+    "activity-indicator",
+    "progress",
+    "spinner",
+    "loading",
+    "activityindicator",
+    "vue"
+  ],
+  "author": "litt1e-p",
+  "license": "MIT",
+  "main": "dist/activity-indicator.umd.js",
+  "module": "dist/activity-indicator.esm.js",
+  "unpkg": "dist/activity-indicator.min.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/litt1e-p/activityIndicator.git"
+  },
+  "bugs": {
+    "url": "https://github.com/litt1e-p/activityIndicator/issues"
+  },
+  "homepage": "https://github.com/litt1e-p/activityIndicator#readme",
+  "dependencies": {
+    "vue": "^2.6.11"
+  }
+}
