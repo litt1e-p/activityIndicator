@@ -1,6 +1,6 @@
 {
   "name": "activity-indicator",
-  "version": "0.0.3",
+  "version": "3.0.0",
   "description": "an animate progress activity-indicator component for vue",
   "config": {
     "libName": "activity-indicator"
@@ -26,7 +26,7 @@
     "url": "https://github.com/litt1e-p/activityIndicator/issues"
   },
   "homepage": "https://github.com/litt1e-p/activityIndicator#readme",
-  "dependencies": {
-    "vue": "^2.6.11"
+  "peerDependencies": {
+    "vue": "^3.2.20"
   }
 }
