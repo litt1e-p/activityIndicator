@@ -1,6 +1,6 @@
 {
   "name": "activity-indicator",
-  "version": "3.0.0",
+  "version": "3.0.1",
   "description": "an animate progress activity-indicator component for vue",
   "config": {
     "libName": "activity-indicator"
